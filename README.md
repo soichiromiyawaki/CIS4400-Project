@@ -20,8 +20,8 @@ We manually import datasets from two different websites.
 ### Load Data
 Load the transformed data into MySQL tables by Python Code.
 
-## [Analysis for NYC Listings]()
-
+## [Analysis for NYC Listings](https://github.com/soichiromiyawaki/CIS4400-Project/blob/main/Analysis.ipynb)
+We analyzed the listing data.
 
 ## Question 
 If you have any questions, please email us.
