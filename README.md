@@ -2,8 +2,9 @@
 
 The ETL(Extract, Transform, Load) documentation will provide a guide on how to extract data, transform data based on the project's requirements and finally load it into the the MySQL database.
 
+The Analysis documentation will provide that the analysis of NYC Listings.
 
-## ETL
+## [ETL](https://github.com/soichiromiyawaki/CIS4400-Project/blob/main/ETL.ipynb)
 ### Extract Data
 We manually import datasets from two different websites.
 1. [Airbnb Open Data in NYC - listing_detail](https://www.kaggle.com/peterzhou/airbnb-open-data-in-nyc?select=listings_detail.csv&fbclid=IwAR0pT11vw9LLVOodCrUePTaUl4Pf7yQOKHupieUPm11S8qkLYE_m1PgEgX4)
@@ -18,6 +19,9 @@ We manually import datasets from two different websites.
 
 ### Load Data
 Load the transformed data into MySQL tables by Python Code.
+
+## [Analysis for NYC Listings]()
+
 
 ## Question 
 If you have any questions, please email us.
