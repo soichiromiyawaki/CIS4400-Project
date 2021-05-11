@@ -2,7 +2,8 @@
 
 The ETL(Extract, Transform, Load) documentation will provide a guide on how to extract data, transform data based on the project's requirements and finally load it into the the MySQL database.
 
-The Analysis documentation will provide that the analysis of NYC Listings.
+The Analysis documentation will provide that the analysis of NYC Listings.  
+The Prediction ducumentation will proveide that the predicted price with NYC's listing data.
 
 ## Installation:
 1. Install Anaconda Navigator- Jupyter Notebook onto your operating system:
