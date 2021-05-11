@@ -34,6 +34,9 @@ Load the transformed data into MySQL tables by Python Code.
 ## [Analysis for NYC Listings](https://github.com/soichiromiyawaki/CIS4400-Project/blob/main/Analysis.ipynb)
 We analyzed the listing data.
 
+## [Predict Price](https://github.com/soichiromiyawaki/CIS4400-Project/blob/main/Price_Prediction.ipynb)
+We predicted the listing daily price to propose several listings can increase the price.
+
 ## Question 
 If you have any questions, please email us.
 
