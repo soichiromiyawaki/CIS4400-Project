@@ -4,6 +4,17 @@ The ETL(Extract, Transform, Load) documentation will provide a guide on how to e
 
 The Analysis documentation will provide that the analysis of NYC Listings.
 
+## Installation:
+1. Install Anaconda Navigator- Jupyter Notebook onto your operating system:
+https://docs.anaconda.com/anaconda/install/
+
+2. Install MySQL on your pc. The link is for installation page for MySQL. Please read the following documets how to install and set MySQL on your pc.
+
+[MySQL Download page](https://dev.mysql.com/downloads/mysql/)
+[MySQL Local Environment Setup (Windows)](https://progate.com/docs/mysql-env-win)
+[MySQL Local Environment Setup (MacOS)](https://progate.com/docs/mysql-env)
+
+
 ## [ETL](https://github.com/soichiromiyawaki/CIS4400-Project/blob/main/ETL.ipynb)
 ### Extract Data
 We manually import datasets from two different websites.
